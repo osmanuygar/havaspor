@@ -16,7 +16,7 @@ I make our day better by delivering morning sports broadcasts and informing abou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/havaspor.git
+   git clone https://github.com/osmanuygar/havaspor.git
    cd havaspor
    ```
    
